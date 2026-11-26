@@ -1,0 +1,30 @@
+{
+  "manifestVersion": 2,
+  "id": "cozy-amber-theme",
+  "publisher": "alamgir09",
+  "name": "Cozy Amber for Orca",
+  "version": "1.3.1",
+  "execution": "data",
+  "description": "A warm amber-on-brown dark theme with matching terminal, editor and diff colours.",
+  "license": "MIT",
+  "engines": {
+    "orca": ">=1.4.245"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "cozy-amber",
+        "title": "Cozy Amber",
+        "path": "themes/cozy-amber.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "cozy-amber",
+        "title": "Cozy Amber",
+        "path": "terminal/cozy-amber.json"
+      }
+    ]
+  },
+  "capabilities": []
+}
