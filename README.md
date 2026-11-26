@@ -15,3 +15,11 @@ Made by Mohammed Alamgir.
 ### Terminal
 
 ![Terminal with the Cozy Amber theme](screenshots/terminal.png)
+
+### Editor
+
+![Code in the editor with the Cozy Amber theme](screenshots/editor.png)
+
+### Diff
+
+![Diff view with the Cozy Amber theme](screenshots/diff.png)
