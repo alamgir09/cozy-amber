@@ -11,3 +11,7 @@ Made by Mohammed Alamgir.
 ### Chat
 
 ![Chat with the Cozy Amber theme](screenshots/chat.png)
+
+### Terminal
+
+![Terminal with the Cozy Amber theme](screenshots/terminal.png)
